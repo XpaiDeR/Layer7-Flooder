@@ -1,7 +1,7 @@
 # Layer7-Flooder
 NodeJS web requests flooder, Sends massive amounts of requests to a URL with custom features and bypasses for JS challenges, it uses proxies. MADE FOR TESTING PURPOSES
 
-# The module contains several bypasses of firewalls include:
+# The module contains several bypasses of firewalls:
 * Cloudflare (JS challenge - UAM, Captcha partly)
 * Stormwall
 * BlazingFast
